@@ -1,2 +1,2 @@
 # Gato
-Soy nuevo en esto asi qu ignorarme por ahora
+Soy nuevo en esto asi que ignorarme por ahora
